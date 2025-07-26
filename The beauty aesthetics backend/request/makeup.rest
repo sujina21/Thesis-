@@ -1,0 +1,46 @@
+@BASE_URL = http://localhost:7000
+@TOKEN = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2ODY4YWI1OTEwYzg3ZGIwNWRlYjk4NjkiLCJpYXQiOjE3NTE2OTEzNTF9.W6lw57NbRwdoI2MozPw08ibZ4drSoReNi6ydSvd2-A4
+
+# Get all makeup items
+GET {{BASE_URL}}/makeup   
+Authorization: Bearer {{TOKEN}}
+Content-Type: application/json
+
+###
+
+# Get all nail items
+GET {{BASE_URL}}/nail   
+Authorization: Bearer {{TOKEN}}
+Content-Type: application/json
+
+###
+
+# Add a new makeup
+POST {{BASE_URL}}/makeup
+Authorization: Bearer {{TOKEN}} 
+Content-Type: application/json
+
+{
+    "title": "Lipstick AAA",
+    "price": 20,
+    "duration": 30,
+    "info": "Long-lasting lipstick",
+    "description": "A vibrant red lipstick that lasts all day."
+}
+###
+
+
+# Get Makeup by Id
+GET {{BASE_URL}}/makeup/677a155a108f9fc97620e58c
+Authorization: Bearer {{TOKEN}}
+Content-Type: application/json
+
+###
+
+
+# Get Nail By Id
+GET {{BASE_URL}}/nail/677a176e8a2065fed4e56cfa
+Authorization: Bearer {{TOKEN}}
+Content-Type: application/json
+
+###

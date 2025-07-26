@@ -1,0 +1,206 @@
+[
+  {
+      "serviceId": "677a155a108f9fc97620e57e",
+      "serviceType": "Makeup",
+      "title": "Party Makeup",
+      "description": "Full face makeup with contouring and highlight"
+    },
+    {
+      "serviceId": "677a155a108f9fc97620e584",
+      "serviceType": "Makeup",
+      "title": "Reception Makeup",
+      "description": "Shimmering eye makeup for a festive look"
+    },
+    {
+      "serviceId": "677a155a108f9fc97620e589",
+      "serviceType": "Makeup",
+      "title": "Smokey Eye Makeup",
+      "description": "Dark, blended eyeshadow"
+    },
+    {
+      "serviceId": "677a155a108f9fc97620e585",
+      "serviceType": "Makeup",
+      "title": "Simple Day Makeup",
+      "description": "Light foundation for even skin tone"
+    },
+    {
+      "serviceId": "677a155a108f9fc97620e588",
+      "serviceType": "Makeup",
+      "title": "Mature Skin Makeup",
+      "description": "Lightweight foundation for smooth texture"
+    },
+    {
+      "serviceId": "677a155a108f9fc97620e57f",
+      "serviceType": "Makeup",
+      "title": "Bridal Makeup",
+      "description": "Full bridal makeover with premium products"
+    },
+    {
+      "serviceId": "677a155a108f9fc97620e58f",
+      "serviceType": "Makeup",
+      "title": "Halo Eye Makeup",
+      "description": "Shimmer or glitter on the center of the lid"
+    },
+    {
+      "serviceId": "677a155a108f9fc97620e582",
+      "serviceType": "Makeup",
+      "title": "Engagement Makeup",
+      "description": "Subtle yet glamorous makeup"
+    },
+    {
+      "serviceId": "677a155a108f9fc97620e581",
+      "serviceType": "Makeup",
+      "title": "Engagement Maakeup\n",
+      "description": "Elegant ands radiant makeup designed for engagement ceremonies."
+    },
+    {
+      "serviceId": "677a155a108f9fc97620e583",
+      "serviceType": "Makeup",
+      "title": "Cocktail Makeup",
+      "description": "Bold and glamorous eye makeup"
+    },
+    {
+      "serviceId": "677a155a108f9fc97620e58c",
+      "serviceType": "Makeup",
+      "title": "Glitter Eye Makeup",
+      "description": "Glitter eyeshadow with custom shades"
+    },
+    {
+      "serviceId": "677a155a108f9fc97620e58d",
+      "serviceType": "Makeup",
+      "title": "Themed Makeup",
+      "description": "Customized designs to match themes"
+    },
+    {
+      "serviceId": "677a155a108f9fc97620e580",
+      "serviceType": "Makeup",
+      "title": "HD Makeup",
+      "description": "Smooth, poreless finish"
+    },
+    {
+      "serviceId": "677a155a108f9fc97620e590",
+      "serviceType": "Makeup",
+      "title": "Bold Lips Makeup",
+      "description": "Bold lip color with precise application"
+    },
+    {
+      "serviceId": "677a176e8a2065fed4e56cfb",
+      "serviceType": "Nail",
+      "title": "Line Art Design",
+      "description": "Custom geometric or abstract designs"
+    },
+    {
+      "serviceId": "677a176e8a2065fed4e56cf5",
+      "serviceType": "Nail",
+      "title": "Acrylic Nails",
+      "description": "Strong and durable nail enhancement"
+    },
+    {
+      "serviceId": "677a176e8a2065fed4e56cf9",
+      "serviceType": "Nail",
+      "title": "Shellac Nails",
+      "description": "Chip-resistant and long-lasting"
+    },
+    {
+      "serviceId": "677a176e8a2065fed4e56cff",
+      "serviceType": "Nail",
+      "title": "Cloud Art",
+      "description": "White fluffy cloud shapes"
+    },
+    {
+      "serviceId": "677a176e8a2065fed4e56cfd",
+      "serviceType": "Nail",
+      "title": "Marble Effect",
+      "description": "Sophisticated marble-like patterns"
+    },
+    {
+      "serviceId": "677a176e8a2065fed4e56d01",
+      "serviceType": "Nail",
+      "title": "Glow in the Dark",
+      "description": "Charged by light for a glowing effect"
+    },
+    {
+      "serviceId": "677a176e8a2065fed4e56cf8",
+      "serviceType": "Nail",
+      "title": "French Manicure",
+      "description": "Elegant and timeless look"
+    },
+    {
+      "serviceId": "677a176e8a2065fed4e56cfc",
+      "serviceType": "Nail",
+      "title": "Swirl Art",
+      "description": "Flowing swirl patterns"
+    },
+    {
+      "serviceId": "677a176e8a2065fed4e56cf4",
+      "serviceType": "Nail",
+      "title": "Gel Extensions",
+      "description": "Adds length using gel tips"
+    },
+    {
+      "serviceId": "677a176e8a2065fed4e56d05",
+      "serviceType": "Nail",
+      "title": "Animal Print",
+      "description": "Leopard, zebra, or custom patterns"
+    },
+    {
+      "serviceId": "677a176e8a2065fed4e56d06",
+      "serviceType": "Nail",
+      "title": "Temperature Changing Nails",
+      "description": "Dynamic and fun color shifts"
+    },
+    {
+      "serviceId": "677a176e8a2065fed4e56d00",
+      "serviceType": "Nail",
+      "title": "Chrome Finish",
+      "description": "Ultra-reflective surface"
+    },
+    {
+      "serviceId": "677a176e8a2065fed4e56cfe",
+      "serviceType": "Nail",
+      "title": "Cat Eye Nails",
+      "description": "Magnetic effect creates a cat-eye shimmer"
+    },
+    {
+      "serviceId": "677a176e8a2065fed4e56d03",
+      "serviceType": "Nail",
+      "title": "Spider Gel",
+      "description": "Elastic gel for fine lines"
+    },
+    {
+      "serviceId": "677a176e8a2065fed4e56d04",
+      "serviceType": "Nail",
+      "title": "Sugar Nails",
+      "description": "Matte glitter for a frosted look"
+    },
+    {
+      "serviceId": "677a176e8a2065fed4e56cfa",
+      "serviceType": "Nail",
+      "title": "Glitter Ombre",
+      "description": "Smooth transition from color to glitter"
+    },
+    {
+      "serviceId": "677a176e8a2065fed4e56cf6",
+      "serviceType": "Nail",
+      "title": "Polygel Nails",
+      "description": "Lightweight and strong"
+    },
+    {
+      "serviceId": "677a176e8a2065fed4e56cf3",
+      "serviceType": "Nail",
+      "title": "Gel Overlay",
+      "description": "Durable gel coating for natural nails"
+    },
+    {
+      "serviceId": "677a176e8a2065fed4e56cf7",
+      "serviceType": "Nail",
+      "title": "Builder in a Bottle",
+      "description": "Applied with a brush for precise shaping"
+    },
+    {
+      "serviceId": "677a176e8a2065fed4e56d02",
+      "serviceType": "Nail",
+      "title": "Reflective Glitter",
+      "description": "Sparkles under direct light"
+    }
+]
