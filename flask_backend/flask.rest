@@ -1,0 +1,15 @@
+@BASE_URL = http://localhost:5000/user
+
+
+# GET AI Recommendations
+POST {{BASE_URL}}/recommend
+Content-Type: application/json
+
+{
+  "userId": "user1",
+  "searchHistory": ["glitter nails", "wedding makeup"],
+  "purchaseHistory": [
+      {"serviceId": "n1", "serviceType": "Nail", "serviceName": "Reflective Glitter"},
+      {"serviceId": "m1", "serviceType": "Makeup", "serviceName": "Bridal Glam"}
+  ]
+}
